@@ -1,3 +1,4 @@
+<img width="1582" height="957" alt="Screenshot 2026-04-02 at 11 03 23 AM" src="https://github.com/user-attachments/assets/23e0999c-3365-4de4-9fa0-07ea2b1a70b3" />
 # Financial Dashboard (Excel)
 
 ## 🔍 Overview
